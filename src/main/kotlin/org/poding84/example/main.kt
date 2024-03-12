@@ -1,8 +1,7 @@
 package org.poding84.example
 
-import org.poding84.example.ddb.ddbExample
-import org.poding84.example.reflection.reflectionExample
+import org.poding84.example.flow.flowExample
 
 fun main() {
-    ddbExample()
+    flowExample()
 }
