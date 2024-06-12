@@ -1,7 +1,5 @@
 package org.poding84.example
 
-import org.poding84.example.flow.flowExample
-
-fun main() {
-    flowExample()
+fun main(args: Array<String>) {
+    println("Hello, World!")
 }
